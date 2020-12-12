@@ -16,5 +16,12 @@
 <script>
 export default {
   props: ["id"],
+<<<<<<< HEAD
+=======
+vue-router
+
+  
+master
+>>>>>>> d66e0426ebe4a024a7d31f96d82a2156dea661fd
 };
 </script>
